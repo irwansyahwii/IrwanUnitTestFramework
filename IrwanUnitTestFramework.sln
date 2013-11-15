@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrwanUnitTestFramework", "IrwanUnitTestFramework.csproj", "{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		32Bit|Any CPU = 32Bit|Any CPU
+		32Bit|x64 = 32Bit|x64
+		32Bit|x86 = 32Bit|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		UnitTests|Any CPU = UnitTests|Any CPU
+		UnitTests|x64 = UnitTests|x64
+		UnitTests|x86 = UnitTests|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.32Bit|Any CPU.ActiveCfg = 32Bit|Any CPU
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.32Bit|Any CPU.Build.0 = 32Bit|Any CPU
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.32Bit|x64.ActiveCfg = 32Bit|x64
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.32Bit|x64.Build.0 = 32Bit|x64
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.32Bit|x86.ActiveCfg = 32Bit|x86
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.32Bit|x86.Build.0 = 32Bit|x86
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.Debug|x64.ActiveCfg = Debug|x64
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.Debug|x64.Build.0 = Debug|x64
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.Debug|x86.ActiveCfg = Debug|x86
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.Debug|x86.Build.0 = Debug|x86
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.Release|x64.ActiveCfg = Release|x64
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.Release|x64.Build.0 = Release|x64
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.Release|x86.ActiveCfg = Release|x86
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.Release|x86.Build.0 = Release|x86
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.UnitTests|Any CPU.ActiveCfg = UnitTests|Any CPU
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.UnitTests|Any CPU.Build.0 = UnitTests|Any CPU
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.UnitTests|x64.ActiveCfg = UnitTests|x64
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.UnitTests|x64.Build.0 = UnitTests|x64
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.UnitTests|x86.ActiveCfg = UnitTests|x86
+		{A06D6D45-F35F-4007-BE7E-0A43A1AD6408}.UnitTests|x86.Build.0 = UnitTests|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
